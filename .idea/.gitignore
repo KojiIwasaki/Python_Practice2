@@ -1,0 +1,12 @@
+# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../Python_Practice2\.idea/codestream.xml
+# データソースのローカルストレージがファイルを無視しました
+/dataSources/
+/dataSources.local.xml
+# エディターベースの HTTP クライアントリクエスト
+/httpRequests/
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
